@@ -1,0 +1,77 @@
+.header {
+  line-height: 20px;
+  position: relative;
+  margin-left: 200px;
+  top: 20px;
+  right: 10px;
+  left: -200px;
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  color: rgb(39, 33, 68);
+}
+.today-box {
+  box-sizing: content-box;
+  border-radius: 30px;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 30px;
+  display: block;
+  margin-top: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 120px;
+  text-align: center;
+  padding: 50px;
+  height: 70px;
+  background: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  font-weight: bold;
+}
+.container2 {
+  width: 100%;
+  font-family: "josefin Sans", sans-serif;
+  font-size: 10px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  height: 250px;
+}
+.card-group {
+  width: 100%;
+  text-align: center;
+  font-family: "josefin Sans", sans-serif;
+}
+
+.card {
+  position: sticky;
+  margin: 10px 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  background: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
+.card-title {
+  font-size: 15px;
+  text-align: left;
+  display: block;
+}
+
+.card-body {
+  text-align: left;
+  font-size: 15px;
+  display: block;
+  margin: 0 auto;
+}
+.weather-icon {
+  display: block;
+  margin: 20px 20px;
+}
+footer {
+  text-align: center;
+  font-size: 15px;
+  background: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  height: 30px;
+  width: 100%;
+  margin: 30px 20px;
+}
+a {
+  color: rgb(39, 33, 68);
+  text-decoration: none;
+}
